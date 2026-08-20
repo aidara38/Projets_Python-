@@ -28,13 +28,14 @@ Pour exécuter les scripts de ce dossier, vous devez disposer de :
 ### 2. 🛡️ Coffre-Fort de Mots de Passe Chiffré (Prochainement)
 *   **Description** : Une application pour stocker et rechercher des identifiants de manière sécurisée.
 *   **Concepts visés** : Gestion des fichiers JSON, dictionnaires, chiffrement de données.
-*   **Statut** : 📈 En cours de réflexion
+*   **Statut** : ✅ Terminé
 
 ---
 
 ## 📈 Mon Parcours d'Apprentissage
 - [❌] Maîtriser les bases de Python (variables, fonctions, boucles).
 - [❌] Créer mon premier script sécurisé (Générateur de MDP).
+- [❌] Apprendre à enregistrer des données dans un fichier local (JSON).
 
 ---
 
