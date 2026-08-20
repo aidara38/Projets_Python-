@@ -5,7 +5,7 @@ def ajout():
     nom_site = input("Veillez saisir le nom du site :")
     mdp_site = input("Veillez saisir le mot de passe associé à ce site :")
     coffre[nom_site] = mdp_site
-    print(f"Mot de passe pour {coffre[nom_site]} ajouté avec succés")
+    print(f"Mot de passe pour {nom_site} ajouté avec succés")
 def affiche():
         global coffre
 

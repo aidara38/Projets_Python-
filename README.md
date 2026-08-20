@@ -15,4 +15,30 @@ Pour exécuter les scripts de ce dossier, vous devez disposer de :
 
 ## 🚀 Mes projets 
 
+## 🚀 Mes Projets
 
+### 1. 🔑 Générateur de Mots de Passe (`generateur.py`)
+*   **Type** : Script en ligne de commande (Console).
+*   **Description** : Génère des mots de passe robustes et impossibles à deviner selon une longueur choisie.
+*   **Concepts appliqués** : Module cryptographique `secrets`, manipulation de chaînes (`string`), conditions de sécurité.
+*   **Pour le lancer** : 
+    ```bash
+    python generateur.py
+    ```
+*   **Statut** : ✅ Terminé
+
+### 2. 🛡️ Coffre-Fort de Mots de Passe Chiffré (Prochainement)
+*   **Description** : Une application pour stocker et rechercher des identifiants de manière sécurisée.
+*   **Concepts visés** : Gestion des fichiers JSON, dictionnaires, chiffrement de données.
+*   **Statut** : 📈 En cours de réflexion
+
+---
+
+## 📈 Mon Parcours d'Apprentissage
+- [❌] Maîtriser les bases de Python (variables, fonctions, boucles).
+- [❌] Créer mon premier script sécurisé (Générateur de MDP).
+
+---
+
+## 📝 Licence
+Le code de mes scripts est libre. N'hésitez pas à l'explorer pour voir mon évolution !
