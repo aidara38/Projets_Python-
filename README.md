@@ -13,8 +13,6 @@ Pour exécuter les scripts de ce dossier, vous devez disposer de :
 
 ---
 
-## 🚀 Mes projets 
-
 ## 🚀 Mes Projets
 
 ### 1. 🔑 Générateur de Mots de Passe (`generateur.py`)
