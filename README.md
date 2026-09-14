@@ -30,12 +30,18 @@ Pour exécuter les scripts de ce dossier, vous devez disposer de :
 *   **Concepts visés** : Gestion des fichiers JSON, dictionnaires, chiffrement de données.
 *   **Statut** : ✅ Terminé
 
+### 3. 👨🏾‍💻 Script d'automatisation pour ordonner son dossier téléchargement
+*   **Description** : Un script pour organiser un dossier en différent sous-dossier en fontion du type de fichier.
+* **Concept visés** : utilisation des modules `os` et `shutil`, manipulation des dictionnnaires 
+*   **Statut** : ✅ Terminé
+
 ---
 
 ## 📈 Mon Parcours d'Apprentissage
 - [❌] Maîtriser les bases de Python (variables, fonctions, boucles).
 - [❌] Créer mon premier script sécurisé (Générateur de MDP).
 - [❌] Apprendre à enregistrer des données dans un fichier local (JSON).
+- [❌] Apprendre à naviguer dans un système de fichier avec le module `os`.
 
 ---
 
